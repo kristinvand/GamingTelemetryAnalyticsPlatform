@@ -99,7 +99,8 @@ Potential next steps to extend this analytics framework:
 
 ## Screenshots
 
-(Insert dashboard images here)
+<img width="1857" height="1053" alt="Screen Shot 2026-03-17 at 10 02 19 PM" src="https://github.com/user-attachments/assets/c5cfb5b9-36b8-449c-8a6d-d8dca131a881" />
+
 
 ---
 
